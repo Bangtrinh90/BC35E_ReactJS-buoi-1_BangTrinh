@@ -12,9 +12,7 @@ export default class BaiTapThucHanhLayout extends Component {
         <Header />
         <Body />
         <Banner />
-
         <Item />
-
         <Footer />
       </div>
     );
